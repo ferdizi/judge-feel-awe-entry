@@ -1,6 +1,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 
+// Entry text: 199 Unicode code points, written verbatim to /output/entry.txt (no trailing newline).
 const text =
   "A single amber bead rests on the edge of a quiet pond, catching the faint light of dawn. Tiny ripples whisper outward, each one a soft breath, widening the circle until the water remembers its depth.";
 
